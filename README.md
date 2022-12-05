@@ -1,5 +1,5 @@
 # abundant_numbers
-this program reada a number from user input and then prints all the abundant numbers before (and not including) that number
+this program reads a number from user input and then prints all the abundant numbers before (and not including) that number
 
 
 for example:
